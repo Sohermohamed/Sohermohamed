@@ -2,9 +2,9 @@
 
 <!-- Centered Profile Image -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Sohermohamed.png" width="120px" height="120px" style="border-radius:50%; border:3px solid #FF5733;">
-</p>
+</p> -->
 
 <h3 align="center">
   Welcome to Soher Mohamed's profile!
